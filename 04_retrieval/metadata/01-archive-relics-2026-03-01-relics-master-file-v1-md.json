@@ -1,0 +1,24 @@
+{
+  "anchor_date": "2026-03-01",
+  "checksum": "68f6b7b275b06e68073d7e070fd4c190ef2436a3e0a2636f96e1c0e31aaaea01",
+  "chunk_ids": [
+    "01-archive-relics-2026-03-01-relics-master-file-v1-md__chunk_001",
+    "01-archive-relics-2026-03-01-relics-master-file-v1-md__chunk_002",
+    "01-archive-relics-2026-03-01-relics-master-file-v1-md__chunk_003",
+    "01-archive-relics-2026-03-01-relics-master-file-v1-md__chunk_004",
+    "01-archive-relics-2026-03-01-relics-master-file-v1-md__chunk_005"
+  ],
+  "doc_type": "relics",
+  "filename": "2026-03-01_relics_master-file_v1.md",
+  "processed_at": "2026-03-19T21:17:18+00:00",
+  "section": "Relics",
+  "source_file": "01_archive/relics/2026-03-01_relics_master-file_v1.md",
+  "status": "processed",
+  "tags": [
+    "relics",
+    "md",
+    "archive"
+  ],
+  "topic": "relics-master-file",
+  "version": "v1"
+}

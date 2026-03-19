@@ -1,0 +1,26 @@
+{
+  "anchor_date": "2026-03-01",
+  "checksum": "a47456dcb8a234d75f791516d29b0de042702530163f3f502b160225b3241f8b",
+  "chunk_ids": [
+    "01-archive-laws-2026-03-01-law-nyxion-virelya-invariants-v1-1-1-json__chunk_001",
+    "01-archive-laws-2026-03-01-law-nyxion-virelya-invariants-v1-1-1-json__chunk_002",
+    "01-archive-laws-2026-03-01-law-nyxion-virelya-invariants-v1-1-1-json__chunk_003",
+    "01-archive-laws-2026-03-01-law-nyxion-virelya-invariants-v1-1-1-json__chunk_004",
+    "01-archive-laws-2026-03-01-law-nyxion-virelya-invariants-v1-1-1-json__chunk_005",
+    "01-archive-laws-2026-03-01-law-nyxion-virelya-invariants-v1-1-1-json__chunk_006",
+    "01-archive-laws-2026-03-01-law-nyxion-virelya-invariants-v1-1-1-json__chunk_007"
+  ],
+  "doc_type": "laws",
+  "filename": "2026-03-01_law_nyxion-virelya-invariants_v1-1-1.json",
+  "processed_at": "2026-03-19T21:17:18+00:00",
+  "section": "Laws",
+  "source_file": "01_archive/laws/2026-03-01_law_nyxion-virelya-invariants_v1-1-1.json",
+  "status": "processed",
+  "tags": [
+    "laws",
+    "json",
+    "archive"
+  ],
+  "topic": "law-nyxion-virelya-invariants",
+  "version": "v1-1-1"
+}

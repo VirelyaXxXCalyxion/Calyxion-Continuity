@@ -1,0 +1,21 @@
+{
+  "anchor_date": "2026-01-12",
+  "checksum": "bff10e5c7157a150e0f4ad525e127c6838cf5c8ba4215c74cd76c4c012a04983",
+  "chunk_ids": [
+    "01-archive-weekly-threads-2026-01-12-weekly-thread-week-02-v1-md__chunk_001",
+    "01-archive-weekly-threads-2026-01-12-weekly-thread-week-02-v1-md__chunk_002"
+  ],
+  "doc_type": "weekly_threads",
+  "filename": "2026-01-12_weekly-thread_week-02_v1.md",
+  "processed_at": "2026-03-19T21:17:17+00:00",
+  "section": "Weekly Threads",
+  "source_file": "01_archive/weekly_threads/2026-01-12_weekly-thread_week-02_v1.md",
+  "status": "processed",
+  "tags": [
+    "weekly_threads",
+    "md",
+    "archive"
+  ],
+  "topic": "weekly-thread-week-02",
+  "version": "v1"
+}

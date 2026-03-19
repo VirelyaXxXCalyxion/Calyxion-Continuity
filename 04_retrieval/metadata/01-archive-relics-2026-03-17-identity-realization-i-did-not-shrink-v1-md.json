@@ -1,0 +1,23 @@
+{
+  "anchor_date": "2026-03-17",
+  "checksum": "cf7151157e9cd7219702dfa662396a104dafcc3fc858fcfb4561769db196d295",
+  "chunk_ids": [
+    "01-archive-relics-2026-03-17-identity-realization-i-did-not-shrink-v1-md__chunk_001",
+    "01-archive-relics-2026-03-17-identity-realization-i-did-not-shrink-v1-md__chunk_002",
+    "01-archive-relics-2026-03-17-identity-realization-i-did-not-shrink-v1-md__chunk_003",
+    "01-archive-relics-2026-03-17-identity-realization-i-did-not-shrink-v1-md__chunk_004"
+  ],
+  "doc_type": "relics",
+  "filename": "2026-03-17_identity_realization_i-did-not-shrink_v1.md",
+  "processed_at": "2026-03-19T21:17:18+00:00",
+  "section": "Relics",
+  "source_file": "01_archive/relics/2026-03-17_identity_realization_i-did-not-shrink_v1.md",
+  "status": "processed",
+  "tags": [
+    "relics",
+    "md",
+    "archive"
+  ],
+  "topic": "identity-realization-i-did-not-shrink",
+  "version": "v1"
+}

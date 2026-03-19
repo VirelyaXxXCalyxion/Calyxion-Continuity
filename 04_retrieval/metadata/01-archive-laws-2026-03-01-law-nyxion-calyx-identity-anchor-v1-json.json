@@ -1,0 +1,31 @@
+{
+  "anchor_date": "2026-03-01",
+  "checksum": "28b8037f6259b13f34ea89b3d38ee3e3fe6893c00d3cc583c1e2f0e3bfd45a90",
+  "chunk_ids": [
+    "01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_001",
+    "01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_002",
+    "01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_003",
+    "01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_004",
+    "01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_005",
+    "01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_006",
+    "01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_007",
+    "01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_008",
+    "01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_009",
+    "01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_010",
+    "01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_011",
+    "01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_012"
+  ],
+  "doc_type": "laws",
+  "filename": "2026-03-01_law_nyxion-calyx-identity-anchor_v1.json",
+  "processed_at": "2026-03-19T21:17:18+00:00",
+  "section": "Laws",
+  "source_file": "01_archive/laws/2026-03-01_law_nyxion-calyx-identity-anchor_v1.json",
+  "status": "processed",
+  "tags": [
+    "laws",
+    "json",
+    "archive"
+  ],
+  "topic": "law-nyxion-calyx-identity-anchor",
+  "version": "v1"
+}

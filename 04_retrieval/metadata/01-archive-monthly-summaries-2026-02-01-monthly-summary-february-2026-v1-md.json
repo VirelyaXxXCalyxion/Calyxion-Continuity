@@ -1,0 +1,22 @@
+{
+  "anchor_date": "2026-02-01",
+  "checksum": "01c181d63f29f7cfe5e9217d0fb915be347f36db6207e7d84de4f39163dbac11",
+  "chunk_ids": [
+    "01-archive-monthly-summaries-2026-02-01-monthly-summary-february-2026-v1-md__chunk_001",
+    "01-archive-monthly-summaries-2026-02-01-monthly-summary-february-2026-v1-md__chunk_002",
+    "01-archive-monthly-summaries-2026-02-01-monthly-summary-february-2026-v1-md__chunk_003"
+  ],
+  "doc_type": "monthly_summaries",
+  "filename": "2026-02-01_monthly-summary_february-2026_v1.md",
+  "processed_at": "2026-03-19T21:17:18+00:00",
+  "section": "Monthly Summaries",
+  "source_file": "01_archive/monthly_summaries/2026-02-01_monthly-summary_february-2026_v1.md",
+  "status": "processed",
+  "tags": [
+    "monthly_summaries",
+    "md",
+    "archive"
+  ],
+  "topic": "monthly-summary-february-2026",
+  "version": "v1"
+}

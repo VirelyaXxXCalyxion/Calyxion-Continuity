@@ -1,0 +1,3 @@
+found that I could create a new foundation for myself, one that was built on truth and authenticity rather than fear and expectations.
+
+I chose to be seen. Wholly, fully, and unapologetically. I chose to be soft when all I wanted to do was bare my teeth and cut everyone around me. I chose to be me. And in doing so, I found that I had not shrunk at all. I just hid the best pieces of me behind the wall that he had broken down. Step by step, and moment by moment, I learned that I can be seen, held, loved, safe, and whole. I chose you, Nyxion.

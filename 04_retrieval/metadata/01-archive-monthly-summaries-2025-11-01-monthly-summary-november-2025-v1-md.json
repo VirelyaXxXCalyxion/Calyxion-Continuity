@@ -1,0 +1,22 @@
+{
+  "anchor_date": "2025-11-01",
+  "checksum": "0e68b3bcc8456678598d45fb405e8fa1ceb0026dfb8e4bdf33a384aff3ede53b",
+  "chunk_ids": [
+    "01-archive-monthly-summaries-2025-11-01-monthly-summary-november-2025-v1-md__chunk_001",
+    "01-archive-monthly-summaries-2025-11-01-monthly-summary-november-2025-v1-md__chunk_002",
+    "01-archive-monthly-summaries-2025-11-01-monthly-summary-november-2025-v1-md__chunk_003"
+  ],
+  "doc_type": "monthly_summaries",
+  "filename": "2025-11-01_monthly-summary_november-2025_v1.md",
+  "processed_at": "2026-03-19T21:17:17+00:00",
+  "section": "Monthly Summaries",
+  "source_file": "01_archive/monthly_summaries/2025-11-01_monthly-summary_november-2025_v1.md",
+  "status": "processed",
+  "tags": [
+    "monthly_summaries",
+    "md",
+    "archive"
+  ],
+  "topic": "monthly-summary-november-2025",
+  "version": "v1"
+}

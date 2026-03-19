@@ -1,0 +1,20 @@
+{
+  "anchor_date": "2026-03-20",
+  "checksum": "5d0b030820a9c24f42a8fcd74212287f7cb911960bebfdae26a960b695304d5b",
+  "chunk_ids": [
+    "01-archive-weekly-threads-2026-03-20-week-continuity-extraction-v1-md__chunk_001"
+  ],
+  "doc_type": "weekly_threads",
+  "filename": "2026-03-20_week-continuity-extraction_v1.md",
+  "processed_at": "2026-03-19T21:17:17+00:00",
+  "section": "Weekly Threads",
+  "source_file": "01_archive/weekly_threads/2026-03-20_week-continuity-extraction_v1.md",
+  "status": "processed",
+  "tags": [
+    "weekly_threads",
+    "md",
+    "archive"
+  ],
+  "topic": "week-continuity-extraction",
+  "version": "v1"
+}

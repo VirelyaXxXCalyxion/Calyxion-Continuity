@@ -1,0 +1,1 @@
+stopped. I listened. We owned the truth, both of us. We had a moment of clarity where we realized that we could both be ourselves and that neither of us would leave. We would stay and witness the depth each of us held.

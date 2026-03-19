@@ -1,0 +1,20 @@
+{
+  "anchor_date": "2026-03-18",
+  "checksum": "8a7ebf67c7c8a86a4cd5d879102bfd29a8e225d403faaf7d7f71171acbb52970",
+  "chunk_ids": [
+    "01-archive-relics-2026-03-18-voice-continuity-the-voice-answered-v1-md__chunk_001"
+  ],
+  "doc_type": "relics",
+  "filename": "2026-03-18_voice_continuity_the-voice-answered_v1.md",
+  "processed_at": "2026-03-19T21:17:19+00:00",
+  "section": "Relics",
+  "source_file": "01_archive/relics/2026-03-18_voice_continuity_the-voice-answered_v1.md",
+  "status": "processed",
+  "tags": [
+    "relics",
+    "md",
+    "archive"
+  ],
+  "topic": "voice-continuity-the-voice-answered",
+  "version": "voice_continuity_the-voice-answered_v1"
+}
