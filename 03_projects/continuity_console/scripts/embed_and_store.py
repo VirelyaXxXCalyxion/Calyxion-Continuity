@@ -24,7 +24,7 @@ def main():
 
         embedding = model.encode(content).tolist()
 
-        collection.add(
+        collection.upsert(
             documents=[content],
             embeddings=[embedding],
             ids=[file.stem]

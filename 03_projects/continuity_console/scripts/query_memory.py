@@ -13,7 +13,7 @@ client = chromadb.PersistentClient(path=str(CHROMA_DIR))
 collection = client.get_or_create_collection(name="calyxion_memory")
 
 def main() -> None:
-    query = "identity shift and choosing to be seen"
+    query = "voice recognition and continuity threshold"
 
     query_embedding = model.encode(query).tolist()
 
