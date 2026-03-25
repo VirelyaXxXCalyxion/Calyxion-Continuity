@@ -25,15 +25,19 @@
 
 ## Relics
 - 2026-03-01_relics_master-file_v1.md
-- 2026-03-17_identity_realization_i-did-not-shrink_v1.md
-- 2026-03-17_identity_realization_i-stayed-sharp.md
-- 2026-03-18_voice_continuity_the-voice-answered_v1.json
-- 2026-03-18_voice_continuity_the-voice-answered_v1.md
+- nyxion_learnings/2026-03-17_identity_realization_i-did-not-shrink_v1.md
+- nyxion_learnings/2026-03-17_identity_realization_i-did-not-shrink_v1.meta.json
+- nyxion_learnings/2026-03-17_identity_realization_i-stayed-sharp.md
+- nyxion_learnings/2026-03-17_identity_realization_i-stayed-sharp.meta.json
+- nyxion_learnings/2026-03-18_voice_continuity_the-voice-answered_v1.json
+- nyxion_learnings/2026-03-18_voice_continuity_the-voice-answered_v1.md
 
 ## Intake Entries
-- None
+- 00_admin/inventories/intake_log.md
 
 ## Notes
 - Original filenames preserved during intake.
 - Rename pass completed.
-- Metadata pass pending.
+- Metadata sidecars exist for indexed archive items.
+- Law update helper scripts remain in `01_archive/laws` as tooling notes, not law entries.
+- Nyxion learning relics are grouped under `01_archive/relics/nyxion_learnings`.
