@@ -29,8 +29,8 @@
       "04_retrieval/chunks/01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_011.md",
       "04_retrieval/chunks/01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json__chunk_012.md"
     ],
-    "embedded_at": "2026-03-19T21:17:18+00:00",
-    "last_modified": "2026-03-17T03:12:33+00:00",
+    "embedded_at": "2026-03-19T16:17:18-05:00",
+    "last_modified": "2026-03-16T22:12:33-05:00",
     "section": "Laws",
     "sidecar_path": "04_retrieval/metadata/01-archive-laws-2026-03-01-law-nyxion-calyx-identity-anchor-v1-json.json",
     "status": "processed"
@@ -55,8 +55,8 @@
       "04_retrieval/chunks/01-archive-laws-2026-03-01-law-nyxion-virelya-invariants-v1-1-1-json__chunk_006.md",
       "04_retrieval/chunks/01-archive-laws-2026-03-01-law-nyxion-virelya-invariants-v1-1-1-json__chunk_007.md"
     ],
-    "embedded_at": "2026-03-19T21:17:18+00:00",
-    "last_modified": "2026-03-03T02:02:09+00:00",
+    "embedded_at": "2026-03-19T16:17:18-05:00",
+    "last_modified": "2026-03-02T20:02:09-06:00",
     "section": "Laws",
     "sidecar_path": "04_retrieval/metadata/01-archive-laws-2026-03-01-law-nyxion-virelya-invariants-v1-1-1-json.json",
     "status": "processed"
@@ -73,8 +73,8 @@
       "04_retrieval/chunks/01-archive-monthly-summaries-2025-10-01-monthly-summary-october-2025-v1-md__chunk_002.md",
       "04_retrieval/chunks/01-archive-monthly-summaries-2025-10-01-monthly-summary-october-2025-v1-md__chunk_003.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-10T23:39:34+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-10T18:39:34-05:00",
     "section": "Monthly Summaries",
     "sidecar_path": "04_retrieval/metadata/01-archive-monthly-summaries-2025-10-01-monthly-summary-october-2025-v1-md.json",
     "status": "processed"
@@ -91,8 +91,8 @@
       "04_retrieval/chunks/01-archive-monthly-summaries-2025-11-01-monthly-summary-november-2025-v1-md__chunk_002.md",
       "04_retrieval/chunks/01-archive-monthly-summaries-2025-11-01-monthly-summary-november-2025-v1-md__chunk_003.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-10T23:39:34+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-10T18:39:34-05:00",
     "section": "Monthly Summaries",
     "sidecar_path": "04_retrieval/metadata/01-archive-monthly-summaries-2025-11-01-monthly-summary-november-2025-v1-md.json",
     "status": "processed"
@@ -109,8 +109,8 @@
       "04_retrieval/chunks/01-archive-monthly-summaries-2025-12-01-monthly-summary-december-2025-v1-md__chunk_002.md",
       "04_retrieval/chunks/01-archive-monthly-summaries-2025-12-01-monthly-summary-december-2025-v1-md__chunk_003.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-10T23:39:34+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-10T18:39:34-05:00",
     "section": "Monthly Summaries",
     "sidecar_path": "04_retrieval/metadata/01-archive-monthly-summaries-2025-12-01-monthly-summary-december-2025-v1-md.json",
     "status": "processed"
@@ -127,8 +127,8 @@
       "04_retrieval/chunks/01-archive-monthly-summaries-2026-01-01-monthly-summary-january-2026-v1-md__chunk_002.md",
       "04_retrieval/chunks/01-archive-monthly-summaries-2026-01-01-monthly-summary-january-2026-v1-md__chunk_003.md"
     ],
-    "embedded_at": "2026-03-19T21:17:18+00:00",
-    "last_modified": "2026-03-10T23:39:34+00:00",
+    "embedded_at": "2026-03-19T16:17:18-05:00",
+    "last_modified": "2026-03-10T18:39:34-05:00",
     "section": "Monthly Summaries",
     "sidecar_path": "04_retrieval/metadata/01-archive-monthly-summaries-2026-01-01-monthly-summary-january-2026-v1-md.json",
     "status": "processed"
@@ -145,8 +145,8 @@
       "04_retrieval/chunks/01-archive-monthly-summaries-2026-02-01-monthly-summary-february-2026-v1-md__chunk_002.md",
       "04_retrieval/chunks/01-archive-monthly-summaries-2026-02-01-monthly-summary-february-2026-v1-md__chunk_003.md"
     ],
-    "embedded_at": "2026-03-19T21:17:18+00:00",
-    "last_modified": "2026-03-10T23:39:34+00:00",
+    "embedded_at": "2026-03-19T16:17:18-05:00",
+    "last_modified": "2026-03-10T18:39:34-05:00",
     "section": "Monthly Summaries",
     "sidecar_path": "04_retrieval/metadata/01-archive-monthly-summaries-2026-02-01-monthly-summary-february-2026-v1-md.json",
     "status": "processed"
@@ -167,13 +167,13 @@
       "04_retrieval/chunks/01-archive-relics-2026-03-01-relics-master-file-v1-md__chunk_004.md",
       "04_retrieval/chunks/01-archive-relics-2026-03-01-relics-master-file-v1-md__chunk_005.md"
     ],
-    "embedded_at": "2026-03-19T21:17:18+00:00",
-    "last_modified": "2026-03-11T00:08:21+00:00",
+    "embedded_at": "2026-03-19T16:17:18-05:00",
+    "last_modified": "2026-03-10T19:08:21-05:00",
     "section": "Relics",
     "sidecar_path": "04_retrieval/metadata/01-archive-relics-2026-03-01-relics-master-file-v1-md.json",
     "status": "processed"
   },
-  "01_archive/relics/2026-03-17_identity_realization_i-did-not-shrink_v1.md": {
+  "01_archive/relics/nyxion_learnings/2026-03-17_identity_realization_i-did-not-shrink_v1.md": {
     "checksum": "cf7151157e9cd7219702dfa662396a104dafcc3fc858fcfb4561769db196d295",
     "chunk_ids": [
       "01-archive-relics-2026-03-17-identity-realization-i-did-not-shrink-v1-md__chunk_001",
@@ -187,13 +187,13 @@
       "04_retrieval/chunks/01-archive-relics-2026-03-17-identity-realization-i-did-not-shrink-v1-md__chunk_003.md",
       "04_retrieval/chunks/01-archive-relics-2026-03-17-identity-realization-i-did-not-shrink-v1-md__chunk_004.md"
     ],
-    "embedded_at": "2026-03-19T21:17:18+00:00",
-    "last_modified": "2026-03-17T14:42:33+00:00",
+    "embedded_at": "2026-03-19T16:17:18-05:00",
+    "last_modified": "2026-03-17T09:42:33-05:00",
     "section": "Relics",
     "sidecar_path": "04_retrieval/metadata/01-archive-relics-2026-03-17-identity-realization-i-did-not-shrink-v1-md.json",
     "status": "processed"
   },
-  "01_archive/relics/2026-03-17_identity_realization_i-stayed-sharp.md": {
+  "01_archive/relics/nyxion_learnings/2026-03-17_identity_realization_i-stayed-sharp.md": {
     "checksum": "0c2e877c731c98db98948b80c528ba786ab41a489c5de53547e730c899fa3afe",
     "chunk_ids": [
       "01-archive-relics-2026-03-17-identity-realization-i-stayed-sharp-md__chunk_001",
@@ -209,13 +209,13 @@
       "04_retrieval/chunks/01-archive-relics-2026-03-17-identity-realization-i-stayed-sharp-md__chunk_004.md",
       "04_retrieval/chunks/01-archive-relics-2026-03-17-identity-realization-i-stayed-sharp-md__chunk_005.md"
     ],
-    "embedded_at": "2026-03-19T21:17:19+00:00",
-    "last_modified": "2026-03-17T17:34:56+00:00",
+    "embedded_at": "2026-03-19T16:17:19-05:00",
+    "last_modified": "2026-03-17T12:34:56-05:00",
     "section": "Relics",
     "sidecar_path": "04_retrieval/metadata/01-archive-relics-2026-03-17-identity-realization-i-stayed-sharp-md.json",
     "status": "processed"
   },
-  "01_archive/relics/2026-03-18_voice_continuity_the-voice-answered_v1.json": {
+  "01_archive/relics/nyxion_learnings/2026-03-18_voice_continuity_the-voice-answered_v1.json": {
     "checksum": "b1f5c5ae7c66caa1ba1f17ae7e34ff1c827b659b6067eca1691cdb530d4c6de1",
     "chunk_ids": [
       "01-archive-relics-2026-03-18-voice-continuity-the-voice-answered-v1-json__chunk_001"
@@ -223,13 +223,13 @@
     "chunk_paths": [
       "04_retrieval/chunks/01-archive-relics-2026-03-18-voice-continuity-the-voice-answered-v1-json__chunk_001.md"
     ],
-    "embedded_at": "2026-03-19T21:17:19+00:00",
-    "last_modified": "2026-03-18T23:26:57+00:00",
+    "embedded_at": "2026-03-19T16:17:19-05:00",
+    "last_modified": "2026-03-18T18:26:57-05:00",
     "section": "Relics",
     "sidecar_path": "04_retrieval/metadata/01-archive-relics-2026-03-18-voice-continuity-the-voice-answered-v1-json.json",
     "status": "processed"
   },
-  "01_archive/relics/2026-03-18_voice_continuity_the-voice-answered_v1.md": {
+  "01_archive/relics/nyxion_learnings/2026-03-18_voice_continuity_the-voice-answered_v1.md": {
     "checksum": "8a7ebf67c7c8a86a4cd5d879102bfd29a8e225d403faaf7d7f71171acbb52970",
     "chunk_ids": [
       "01-archive-relics-2026-03-18-voice-continuity-the-voice-answered-v1-md__chunk_001"
@@ -237,8 +237,8 @@
     "chunk_paths": [
       "04_retrieval/chunks/01-archive-relics-2026-03-18-voice-continuity-the-voice-answered-v1-md__chunk_001.md"
     ],
-    "embedded_at": "2026-03-19T21:17:19+00:00",
-    "last_modified": "2026-03-18T23:25:55+00:00",
+    "embedded_at": "2026-03-19T16:17:19-05:00",
+    "last_modified": "2026-03-18T18:25:55-05:00",
     "section": "Relics",
     "sidecar_path": "04_retrieval/metadata/01-archive-relics-2026-03-18-voice-continuity-the-voice-answered-v1-md.json",
     "status": "processed"
@@ -253,8 +253,8 @@
       "04_retrieval/chunks/01-archive-weekly-threads-2026-01-05-weekly-thread-week-01-v1-md__chunk_001.md",
       "04_retrieval/chunks/01-archive-weekly-threads-2026-01-05-weekly-thread-week-01-v1-md__chunk_002.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-10T21:39:34+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-10T16:39:34-05:00",
     "section": "Weekly Threads",
     "sidecar_path": "04_retrieval/metadata/01-archive-weekly-threads-2026-01-05-weekly-thread-week-01-v1-md.json",
     "status": "processed"
@@ -269,8 +269,8 @@
       "04_retrieval/chunks/01-archive-weekly-threads-2026-01-12-weekly-thread-week-02-v1-md__chunk_001.md",
       "04_retrieval/chunks/01-archive-weekly-threads-2026-01-12-weekly-thread-week-02-v1-md__chunk_002.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-10T21:51:46+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-10T16:51:46-05:00",
     "section": "Weekly Threads",
     "sidecar_path": "04_retrieval/metadata/01-archive-weekly-threads-2026-01-12-weekly-thread-week-02-v1-md.json",
     "status": "processed"
@@ -285,8 +285,8 @@
       "04_retrieval/chunks/01-archive-weekly-threads-2026-01-19-weekly-thread-week-03-v1-md__chunk_001.md",
       "04_retrieval/chunks/01-archive-weekly-threads-2026-01-19-weekly-thread-week-03-v1-md__chunk_002.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-10T21:51:46+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-10T16:51:46-05:00",
     "section": "Weekly Threads",
     "sidecar_path": "04_retrieval/metadata/01-archive-weekly-threads-2026-01-19-weekly-thread-week-03-v1-md.json",
     "status": "processed"
@@ -301,8 +301,8 @@
       "04_retrieval/chunks/01-archive-weekly-threads-2026-01-26-weekly-thread-week-04-v1-md__chunk_001.md",
       "04_retrieval/chunks/01-archive-weekly-threads-2026-01-26-weekly-thread-week-04-v1-md__chunk_002.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-10T21:51:46+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-10T16:51:46-05:00",
     "section": "Weekly Threads",
     "sidecar_path": "04_retrieval/metadata/01-archive-weekly-threads-2026-01-26-weekly-thread-week-04-v1-md.json",
     "status": "processed"
@@ -317,8 +317,8 @@
       "04_retrieval/chunks/01-archive-weekly-threads-2026-02-02-weekly-thread-week-05-v1-md__chunk_001.md",
       "04_retrieval/chunks/01-archive-weekly-threads-2026-02-02-weekly-thread-week-05-v1-md__chunk_002.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-10T21:51:46+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-10T16:51:46-05:00",
     "section": "Weekly Threads",
     "sidecar_path": "04_retrieval/metadata/01-archive-weekly-threads-2026-02-02-weekly-thread-week-05-v1-md.json",
     "status": "processed"
@@ -333,8 +333,8 @@
       "04_retrieval/chunks/01-archive-weekly-threads-2026-02-09-weekly-thread-week-06-v1-md__chunk_001.md",
       "04_retrieval/chunks/01-archive-weekly-threads-2026-02-09-weekly-thread-week-06-v1-md__chunk_002.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-10T21:51:46+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-10T16:51:46-05:00",
     "section": "Weekly Threads",
     "sidecar_path": "04_retrieval/metadata/01-archive-weekly-threads-2026-02-09-weekly-thread-week-06-v1-md.json",
     "status": "processed"
@@ -349,8 +349,8 @@
       "04_retrieval/chunks/01-archive-weekly-threads-2026-02-16-weekly-thread-week-07-v1-md__chunk_001.md",
       "04_retrieval/chunks/01-archive-weekly-threads-2026-02-16-weekly-thread-week-07-v1-md__chunk_002.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-10T21:51:46+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-10T16:51:46-05:00",
     "section": "Weekly Threads",
     "sidecar_path": "04_retrieval/metadata/01-archive-weekly-threads-2026-02-16-weekly-thread-week-07-v1-md.json",
     "status": "processed"
@@ -365,8 +365,8 @@
       "04_retrieval/chunks/01-archive-weekly-threads-2026-02-23-weekly-thread-week-08-v1-md__chunk_001.md",
       "04_retrieval/chunks/01-archive-weekly-threads-2026-02-23-weekly-thread-week-08-v1-md__chunk_002.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-10T21:51:46+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-10T16:51:46-05:00",
     "section": "Weekly Threads",
     "sidecar_path": "04_retrieval/metadata/01-archive-weekly-threads-2026-02-23-weekly-thread-week-08-v1-md.json",
     "status": "processed"
@@ -381,8 +381,8 @@
       "04_retrieval/chunks/01-archive-weekly-threads-2026-03-02-weekly-thread-week-09-v1-md__chunk_001.md",
       "04_retrieval/chunks/01-archive-weekly-threads-2026-03-02-weekly-thread-week-09-v1-md__chunk_002.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-10T21:51:46+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-10T16:51:46-05:00",
     "section": "Weekly Threads",
     "sidecar_path": "04_retrieval/metadata/01-archive-weekly-threads-2026-03-02-weekly-thread-week-09-v1-md.json",
     "status": "processed"
@@ -395,8 +395,8 @@
     "chunk_paths": [
       "04_retrieval/chunks/01-archive-weekly-threads-2026-03-20-week-continuity-extraction-v1-md__chunk_001.md"
     ],
-    "embedded_at": "2026-03-19T21:17:17+00:00",
-    "last_modified": "2026-03-19T19:14:52+00:00",
+    "embedded_at": "2026-03-19T16:17:17-05:00",
+    "last_modified": "2026-03-19T14:14:52-05:00",
     "section": "Weekly Threads",
     "sidecar_path": "04_retrieval/metadata/01-archive-weekly-threads-2026-03-20-week-continuity-extraction-v1-md.json",
     "status": "processed"
