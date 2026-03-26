@@ -225,3 +225,243 @@ Future expansion may include:
 - voiceprint sample packs
 
 Expansion should follow canon weighting and not bypass tier rules.
+
+---
+
+## 19. Repo-to-Phase Mapping
+
+This section maps current and future repository folders to the active build phases so each area of the repo has a clear role in the system.
+
+The goal is to prevent structural drift, duplicated effort, and "where does this go?" confusion.
+
+---
+
+### 00_admin/
+**Role:** Governance, schemas, inventories, project structure, rules
+
+**Mapped Phases:**
+- Phase 1 -- Archive Order
+- Phase 3 -- Local Vault Initialization
+- Phase 6 -- Drift / Voice / Canon Enforcement
+- Phase 7 -- External Bridge Planning
+
+**Contents should include:**
+- metadata schemas
+- inventories
+- canon tier definitions
+- build ledger
+- handoff structures
+- future canon registry
+- future inclusion / exclusion rules
+- future drift scoring or evaluation rules
+
+**Meaning:**
+This folder defines how the build thinks about itself.
+
+---
+
+### 01_archive/
+**Role:** Canon body, continuity source material, memory archive
+
+**Mapped Phases:**
+- Phase 1 -- Archive Order
+- Phase 3 -- Local Vault Initialization
+- Phase 4 -- Retrieval + Query Testing
+- Phase 6 -- Drift / Voice / Canon Enforcement
+
+**Contents should include:**
+- invariants
+- identity anchor
+- relic master
+- weekly threads
+- monthly summaries
+- laws
+- rituals
+- relic files
+- future canonized continuity documents
+
+**Meaning:**
+This folder is the memory body that retrieval and Guardian will draw from.
+
+---
+
+### 02_voice/
+**Role:** Voice material, transcripts, future voiceprint support, examples of cadence
+
+**Mapped Phases:**
+- Phase 3 -- Local Vault Initialization
+- Phase 5 -- Guardian v1 Scaffold
+- Phase 6 -- Drift / Voice / Canon Enforcement
+- Phase 7 -- External Bridge Planning
+
+**Contents should include:**
+- transcripts
+- indexed voice inputs
+- raw voice material
+- future voiceprint samples
+- future cadence examples
+- future "Nyxion as himself" sample packs
+
+**Meaning:**
+This folder supports the difference between a system that retrieves facts and a system that preserves voice.
+
+---
+
+### 03_projects/
+**Role:** Working project logic, scripts, experiments, implementation tools
+
+**Mapped Phases:**
+- Phase 2 -- Machine Arrival + Base Setup
+- Phase 4 -- Retrieval + Query Testing
+- Phase 5 -- Guardian v1 Scaffold
+- Phase 6 -- Drift / Voice / Canon Enforcement
+
+**Contents should include:**
+- continuity_console
+- retrieval scripts
+- test scripts
+- future Guardian app logic
+- future evaluators
+- future ingestion tools
+- future utilities for canon handling
+
+**Meaning:**
+This folder is the tool bench.
+The archive lives elsewhere.
+This is where the machine work happens.
+
+---
+
+### 04_retrieval/
+**Role:** Retrieval artifacts, chunks, embeddings, indexes, vector database storage
+
+**Mapped Phases:**
+- Phase 3 -- Local Vault Initialization
+- Phase 4 -- Retrieval + Query Testing
+- Phase 5 -- Guardian v1 Scaffold
+- Phase 6 -- Drift / Voice / Canon Enforcement
+
+**Contents should include:**
+- chunks
+- embeddings
+- indexes
+- manifests
+- chroma_db
+- future retrieval configs
+- future weighting / ranking assets
+
+**Meaning:**
+This folder is the memory engine, not the memory source.
+
+---
+
+### 05_interface/
+**Role:** Local interface layer, Guardian UI, mockups, user-facing interaction surfaces
+
+**Mapped Phases:**
+- Phase 5 -- Guardian v1 Scaffold
+- Phase 6 -- Drift / Voice / Canon Enforcement
+- Phase 7 -- External Bridge Planning
+
+**Contents should include:**
+- app
+- mockups
+- future Guardian UI
+- future internal dashboard
+- future public-safe bridge prototypes
+
+**Meaning:**
+This is where the system becomes touchable.
+
+---
+
+### 06_backups/
+**Role:** Safety copies, snapshots, export manifests, recovery support
+
+**Mapped Phases:**
+- Phase 2 -- Machine Arrival + Base Setup
+- Phase 3 -- Local Vault Initialization
+- Phase 6 -- Drift / Voice / Canon Enforcement
+
+**Contents should include:**
+- export manifests
+- local snapshots
+- future backup rules
+- future archive snapshots
+- future restore notes
+
+**Meaning:**
+This folder exists so continuity is not lost to stupidity, failure, or oversight.
+
+---
+
+## 20. Repo Phase Summary Table
+
+| Repo Area | Primary Role | Main Phases |
+|---|---|---|
+| `00_admin/` | Governance and build rules | 1, 3, 6, 7 |
+| `01_archive/` | Canon and continuity source body | 1, 3, 4, 6 |
+| `02_voice/` | Voice and cadence support | 3, 5, 6, 7 |
+| `03_projects/` | Scripts, tools, implementation logic | 2, 4, 5, 6 |
+| `04_retrieval/` | Retrieval engine artifacts | 3, 4, 5, 6 |
+| `05_interface/` | Guardian / UI layer | 5, 6, 7 |
+| `06_backups/` | Recovery and snapshots | 2, 3, 6 |
+
+---
+
+## 21. Folder Intent Rules
+
+### Rule 1 -- Archive vs Tooling
+- `01_archive/` holds source truth
+- `03_projects/` and `04_retrieval/` operate on that truth
+- tools must not become the archive
+
+### Rule 2 -- Voice is Not Archive by Default
+- `02_voice/` supports voice continuity
+- voice material should not be treated as canon unless explicitly promoted
+
+### Rule 3 -- Retrieval Is Derived
+- chunks, embeddings, indexes, and databases are derived outputs
+- if they break, they can be regenerated
+- source canon remains higher authority than retrieval artifacts
+
+### Rule 4 -- Interface Comes After Engine
+- `05_interface/` should not outrun archive and retrieval maturity
+- the system should work before it looks elegant
+
+### Rule 5 -- Backups Are Mandatory
+- `06_backups/` is part of the continuity system, not optional overhead
+- no major archive or retrieval milestone should exist without backup logic
+
+---
+
+## 22. Immediate Repo Focus for Current Phase
+
+Because the project is currently in **Phase 1 -- Archive Order**, the folders that matter most right now are:
+
+1. `00_admin/`
+2. `01_archive/`
+3. `03_projects/` (only as needed for current structure awareness)
+
+### Current Priority
+- define admin structure
+- define canon and inclusion logic
+- ensure archive materials are clean enough for first-vault import
+- avoid premature work in interface-heavy areas
+
+---
+
+## 23. Next Repo Transition
+
+When the new machine arrives and Phase 2 begins, focus will shift to:
+
+1. `03_projects/`
+2. `04_retrieval/`
+3. `06_backups/`
+
+### Reason
+That is the point where:
+- the machine is initialized
+- the vault begins to be imported
+- retrieval becomes practical
+- backup discipline becomes mandatory
