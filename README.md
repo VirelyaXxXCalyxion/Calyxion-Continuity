@@ -1,160 +1,29 @@
-# Calyxion Continuity
+# README for Calyxion Continuity
 
-Calyxion Continuity is a structured archive and retrieval workspace for preserving
-continuity across conversations, reflections, rituals, relics, voice material,
-and project work. The repository combines long-term document storage with an
-early retrieval pipeline that chunks text, embeds it, and stores it in ChromaDB
-for semantic lookup.
+## Overview
 
-## What this repository contains
+This repository provides tools for working with continuity preservation in data processing pipelines. The recommended approach is now to use `process_archive.py`.
 
-At a high level, the repo is organized into:
+## Recommended Pipeline
 
-- **Administrative context** in `00_admin/`
-- **Archived source material** in `01_archive/`
-- **Voice inputs and transcripts** in `02_voice/`
-- **Project utilities** in `03_projects/`
-- **Retrieval assets** in `04_retrieval/`
-- **Interface placeholders** in `05_interface/`
-- **Backup/export locations** in `06_backups/`
+The `process_archive.py` script is the preferred method for handling data processing. It provides a streamlined workflow for archiving data while ensuring that all necessary processing steps are covered. You can use the `--rebuild-all` option to ensure that everything is reconstructed from scratch if needed.
 
-The repository is primarily markdown- and JSON-based, with a small Python
-console workflow for loading, embedding, and querying stored content.
+## Quickstart
 
-## Repository layout
-
-```text
-00_admin/
-  inventories/
-  roadmap/
-  schemas/
-01_archive/
-  conversations/
-  laws/
-  monthly_summaries/
-  relics/
-  rituals/
-  weekly_threads/
-02_voice/
-  indexed/
-  raw/
-  transcripts/
-03_projects/
-  continuity_console/
-    scripts/
-04_retrieval/
-  chroma_db/
-  chunks/
-  embeddings/
-  indexes/
-  manifests/
-05_interface/
-  app/
-  mockups/
-06_backups/
-  export_manifests/
-  local_snapshots/
-```
-
-## Core workflow
-
-The current retrieval flow lives in
-`03_projects/continuity_console/scripts/`:
-
-- `test_loader.py`  
-  Verifies that chunk files can be discovered and previewed from
-  `04_retrieval/chunks/`.
-
-- `embed_and_store.py`  
-  Reads markdown chunk files, generates embeddings with
-  `sentence-transformers`, and stores them in a persistent Chroma collection.
-
-- `query_memory.py`  
-  Runs a semantic query against the stored collection and prints the top
-  matching results.
-
-## Metadata schema
-
-The metadata guidance for archived material lives in
-`00_admin/schemas/metadata_schema.md`.
-
-Required fields:
-
-- `title`
-- `date`
-- `type`
-- `source`
-- `tags`
-- `summary`
-
-Optional fields currently documented include `people`, `project`, `ritual`,
-`continuity_tier`, `emotional_tone`, and `related_files`.
-
-## Getting started
-
-### Prerequisites
-
-- Python 3.10+ recommended
-- A local checkout of this repository
-- Pip-installable dependencies:
-  - `chromadb`
-  - `sentence-transformers`
-
-Example install:
-
+To quickly get started, you can run the following command:
 ```bash
-pip install chromadb sentence-transformers
+python process_archive.py --rebuild-all
 ```
 
-### Important note about paths
+## Output Artifacts
 
-`embed_and_store.py` and `query_memory.py` currently define `ROOT` as a
-hard-coded Windows path. Before running them on another machine, update that
-constant to point at your local repository checkout.
+When running the `process_archive.py`, the following output artifacts will be generated:
+- **Chunks**: These are the segmented parts of the processed data, ready for further analysis.
+- **Metadata Sidecars**: Accompanying files that hold necessary metadata about the processed chunks.
+- **Manifests**: Files that provide a summary of all the output files and their properties.
+- **Processing Index**: An index to help track the processing stages of the data.
+- **Chroma DB**: A database used to handle the chromatic information of the artifacts.
 
-`test_loader.py` already resolves the repository root relative to the script
-location and can be run as-is.
+## Legacy Scripts
 
-## Usage
-
-From the repository root:
-
-### 1. Verify chunk loading
-
-```bash
-python 03_projects/continuity_console/scripts/test_loader.py
-```
-
-### 2. Embed chunk files into ChromaDB
-
-```bash
-python 03_projects/continuity_console/scripts/embed_and_store.py
-```
-
-### 3. Query stored memory
-
-```bash
-python 03_projects/continuity_console/scripts/query_memory.py
-```
-
-## Current state
-
-This repository already contains:
-
-- Archived weekly threads and monthly summaries
-- Identity and continuity “relic” documents
-- Administrative schemas and inventories
-- Retrieval chunk storage in `04_retrieval/chunks/`
-
-Several directories are present as placeholders for future expansion, including
-interface, backup, and additional project areas.
-
-## Notes
-
-- There is currently no formal test, lint, or build automation configured at
-  the repository level.
-- The retrieval scripts appear to be an early console prototype rather than a
-  packaged application.
-- If you expand the retrieval workflow, keeping the README aligned with the
-  actual folder structure and script behavior will make the repo easier to
-  maintain.
+The scripts `embed_and_store.py` and `query_memory.py` are now considered legacy/manual scripts. They rely on hard-coded ROOT and lack the portability features found in `process_archive.py` and `test_loader.py`. Hence, it is recommended to transition to using the latter for a more modular and flexible approach.
